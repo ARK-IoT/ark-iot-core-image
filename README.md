@@ -1,5 +1,7 @@
 <img src="https://github.com/Ark-IoT/ark-iot-core-image/blob/master/ark_iot_logo.png" width="350">  
 
+### THIS REPO HAS BEEN ARCHIVED FOR HISTORICAL REFERENCE AND IS NO LONGER MAINTAINED
+
 ![Version](https://img.shields.io/badge/version-0.9.0--beta-orange.svg?style=flat-square&&colorA=494949) 
 [![License](https://img.shields.io/badge/license-MIT-BE90D4.svg?style=flat-square&&colorA=494949)](http://creativecommons.org/licenses/by-sa/4.0/) 
 
@@ -62,7 +64,3 @@ power it up and using SSH
 - [ ] Documention!
 
 -----
-
-### Tip Jar   
-**ѦRK [Ѧ]:** ```AZreeHxX23s4jttL3ML8n6A2aLrwHPfVGZ```  
-**DѦRK [DѦ]:** ```DHQ4Fjsyiop3qBR4otAjAu6cBHkgRELqGA```  
